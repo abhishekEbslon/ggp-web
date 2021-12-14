@@ -1,0 +1,20 @@
+.input {
+  border-radius: 20px;
+  border-color: transparent;
+  padding: 5px;
+  background-color: #ffffff;
+  width: 372px;
+  height: 40.56px;
+}
+/* .adminHome{
+    background-color: #F2F4F6;
+    height: 100vh;
+} */
+.mainButton{
+  background: #ffffff;
+  border-radius: 50px;
+  border-color: linear-gradient(180deg, #aa23ad 0%, #785bdf 100%) !important;
+  border: 2px solid #aa23ad;
+  color: #aa23ad;
+  font-weight: bold;
+}

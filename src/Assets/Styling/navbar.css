@@ -1,0 +1,34 @@
+.navbar-outer {
+  background-color: #ccbdff;
+  padding: 1em;
+}
+.offcanvas-end {
+  left: 0 !important;
+  top: 16% !important;
+}
+.offcanvas-backdrop.show {
+  opacity: 0 !important;
+}
+.sidenavTabs {
+  flex-direction: column;
+  margin-top: 2em !important;
+}
+.tab {
+  padding: 1em;
+}
+.tab:hover {
+  box-shadow: -2px 1px 3px rgba(80, 80, 80, 0.25);
+}
+.tab-inner > h4 {
+  /* font-size: 20px; */
+  margin-left: 1em;
+  color: #525252;
+}
+.tab-inner {
+  display: flex;
+  margin-left: 2em;
+  /* padding: 1em; */
+}
+.offcanvas-body {
+  background-color: #ffffff !important;
+}
